@@ -1,4 +1,7 @@
 ---
+id: Text Editors
+aliases:
+  - Text Editors 
 tags:
   - editors
 ---

@@ -1,3 +1,10 @@
+---
+id: scripting
+aliases:
+  - Decripting sha256
+tags: []
+---
+
 ## Decripting sha256
 - 6 digit sha256 codes are very easy to reverse
 - data: january 18, 2024

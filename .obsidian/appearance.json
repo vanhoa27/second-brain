@@ -1,6 +1,7 @@
 {
   "accentColor": "",
   "baseFontSize": 18,
-  "cssTheme": "Obsidian Nord",
-  "showViewHeader": true
+  "cssTheme": "Obsidian gruvbox",
+  "showViewHeader": true,
+  "theme": "obsidian"
 }
