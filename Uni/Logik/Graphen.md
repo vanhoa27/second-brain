@@ -1,3 +1,7 @@
+---
+tags:
+  - logik
+---
 ## gerichtete Graphen
 - Weg der laenge $l$ in $\mathcal G$, $(v_0, \dots, v_l) \in V^{l+1}$ fuer ein $l \in \mathbb N$    
 	- Abfolge von mit Kanten verbundenen Knoten

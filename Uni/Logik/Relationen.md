@@ -1,3 +1,7 @@
+---
+tags:
+  - logik
+---
 - **Einstellige Relation:**
 	- Eigenschaft, die Elemente einer Menge $M$ **haben** oder **nicht**
 - **Zweistellige Relation:**

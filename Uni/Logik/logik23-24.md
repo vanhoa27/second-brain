@@ -1,3 +1,7 @@
+---
+tags:
+  - logik
+---
 ## 2. Strukturen
 ## 3. Prädikatenlogik
 
@@ -5,12 +9,12 @@
 - Homorphismen sind totale Funktionen
 
 > [!TIP]
-> -  definitionen schrittweise abarbeiten
+> -  Definitionen schrittweise abarbeiten
 > - [[Graphen]]
 > - [[Relationen]]
-> -  [[homomorphismus]]
-> - [[isomorphismus]]
-> - [[endomorphismus]]
+> -  [[Homomorphismus]]
+> - [[Isomorphismus]]
+> - [[Endomorphismus]]
 > - 2.5 "macht deutlich, dass mit den limitierten Mitteln a<b nicht garantiert werden kann"
 
 

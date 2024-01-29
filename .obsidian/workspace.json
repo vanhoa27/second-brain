@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#logik  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,18 +153,18 @@
   },
   "active": "4e5e2e89cbab6c9c",
   "lastOpenFiles": [
-    "Uni/Logik/Relationen.md",
-    "Uni/Logik/logik23-24.md",
-    "Uni/Logik/Graphen.md",
-    "Uni/Logik/endomorphismus.md",
-    "Uni/Logik/isomorphismus.md",
-    "Uni/Logik/homomorphismus.md",
-    "Excalidraw/Drawing 2024-01-29 17.42.25.excalidraw.md",
+    "Uni/Logik/Endomorphismus.md",
+    "Uni/Logik/Isomorphismus.md",
+    "Uni/Logik/Homomorphismus.md",
     "Uni/Wire/wire23-24.md",
+    "Uni/Logik/logik23-24.md",
+    "Uni/Logik/Relationen.md",
+    "Uni/Logik/Graphen.md",
+    "zettelkasten/wiki.md",
+    "Excalidraw/Drawing 2024-01-29 17.42.25.excalidraw.md",
     "Excalidraw/Live.excalidraw.md",
     "Uni/Wire/Theorie5.md",
     "zettelkasten/anime.md",
-    "zettelkasten/wiki.md",
     "zettelkasten/Helix.md",
     "attachements/Pasted image 20240127223754.png",
     "attachements/Pasted image 20240127223723.png",
