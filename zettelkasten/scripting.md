@@ -4,7 +4,6 @@ aliases:
   - Decripting sha256
 tags: []
 ---
-
 ## Decripting sha256
 - 6 digit sha256 codes are very easy to reverse
 - data: january 18, 2024
@@ -20,3 +19,5 @@ for i in range (0, 500000):
 ```bash
 time python3 <script>
 ```
+
+

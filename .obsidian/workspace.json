@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "1f88ee09ea0ed500",
+        "id": "2137b5c78c046af4",
         "type": "tabs",
         "children": [
           {
-            "id": "4e5e2e89cbab6c9c",
+            "id": "ac2ecd0d61c8824b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Logik/logik23-24.md",
+                "file": "Uni/Digsys/DigSys.md",
                 "mode": "preview",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a6873f02a1f7780",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-28 09.30.52.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#logik  ",
+                "query": "tag:#uni/lmi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +77,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 212.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -83,29 +93,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "747745faa5870d89",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Uni/Logik/logik23-24.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "afba52abb63b545e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Logik/logik23-24.md",
+                "file": "Excalidraw/Drawing 2024-04-28 09.30.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,16 +121,49 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/Logik/logik23-24.md"
+                "file": "Excalidraw/Drawing 2024-04-28 09.30.52.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "febb74aaef9a581f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-28 09.30.52.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8586e7165c01549",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bf0ecd6bbae85cb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,51 +174,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4e5e2e89cbab6c9c",
+  "active": "8bf0ecd6bbae85cb",
   "lastOpenFiles": [
-    "Uni/Logik/Endomorphismus.md",
-    "Uni/Logik/Isomorphismus.md",
-    "Uni/Logik/Homomorphismus.md",
-    "Uni/Wire/wire23-24.md",
-    "Uni/Logik/logik23-24.md",
-    "Uni/Logik/Relationen.md",
-    "Uni/Logik/Graphen.md",
+    "Uni/Digsys/DigSys.md",
+    "Excalidraw/Drawing 2024-04-28 09.30.52.excalidraw.md",
+    "Uni/StochServ/Technische_Informatik.pdf",
+    "Uni/Digsys/UE02_BoolescheAlgebra.pdf",
+    "Uni/LMI/LMI.md",
+    "Uni/LMI/Prädikatenlogik.md",
+    "attachements/Pasted image 20240428092755.png",
+    "Uni/LMI/202404251012-VL2.md",
+    "Uni/LMI/codierung.md",
+    "Uni/LMI/logik.pdf",
+    "Uni/LMI/folien-handout.pdf",
+    "Uni/LMI/tut00.pdf",
+    "Uni/LMI/ha00.pdf",
+    "Uni/LMI/LMI_Skript.md",
+    "Uni/LMI/Wortstrukturen.md",
+    "archive/Logik/logik23-24.md",
+    "Uni/LMI/Strukturen.md",
+    "Uni/LMI/MSO.md",
+    "Uni/PP3S/Kickoff-PP3S.md",
     "zettelkasten/wiki.md",
-    "Excalidraw/Drawing 2024-01-29 17.42.25.excalidraw.md",
+    "archive/Wire/wire23-24.md",
+    "Uni/LMI/Funktionen.md",
+    "Uni/LMI/injektiv.md",
+    "Uni/LMI/lmi.pdf",
+    "Uni/LMI/surjektiv.md",
+    "Uni/LMI/rechtseindeutig.md",
+    "attachements/Pasted image 20240428075939.png",
+    "attachements/Pasted image 20240428075853.png",
+    "archive/Logik/Isomorphismus.md",
+    "archive/Wire/Klausurvorbereitung.md",
+    "archive/BeKo/Lernzettel.md",
+    "archive/Logik/Relationen.md",
+    "Excalidraw/endomorphismen.excalidraw.md",
     "Excalidraw/Live.excalidraw.md",
-    "Uni/Wire/Theorie5.md",
-    "zettelkasten/anime.md",
-    "zettelkasten/Helix.md",
-    "attachements/Pasted image 20240127223754.png",
-    "attachements/Pasted image 20240127223723.png",
-    "attachements/Pasted image 20240127215925.png",
-    "attachements/Pasted image 20240127215856.png",
-    "attachements/Pasted image 20240127215822.png",
-    "attachements/Pasted image 20240127193039.png",
-    "attachements/Pasted image 20240127182119.png",
-    "attachements/Pasted image 20240127180709.png",
-    "zettelkasten/Kakoune.md",
-    "zettelkasten/Text Editors.md",
-    "zettelkasten/linux.md",
-    "zettelkasten/i3.md",
-    "Excalidraw/Drawing 2024-01-26 11.06.36.excalidraw.md",
-    "Uni",
-    "Uni/Swtpp",
-    "Uni/BeKo",
-    "Uni/Wire",
-    "Untitled.md",
-    "Uni/Logik",
-    "1706264025-RRNM.md",
-    "zettelkasten/scripting.md~",
-    "wiki.md~",
-    "Excalidraw",
-    "zettelkasten/scripting.md",
-    "zettelkasten/Vim.md",
-    "zettelkasten/Nvim.md",
-    "zettelkasten",
-    "attachements"
+    "Excalidraw/rnvsha03.excalidraw.md",
+    "Uni/StochServ/Stochastik.md",
+    "Uni/StochServ/VL4_mit_Notizen.pdf",
+    "Uni/Digsys/folien-kapitel01.pdf",
+    "Uni/Digsys/folien-kapitel02.pdf",
+    "attachements/Pasted image 20240425112418.png",
+    "Pasted image 20240130020840.png",
+    "attachements/Pasted image 20240211135126.png",
+    "attachements/Pasted image 20240130021850.png",
+    "attachements/Pasted image 20240130021638.png",
+    "attachements/Pasted image 20240130014606.png",
+    "attachements/Pasted image 20240130020648.png"
   ]
 }

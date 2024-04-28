@@ -1,0 +1,5 @@
+---
+tags:
+  - uni/lmi
+---
+# Strukturen

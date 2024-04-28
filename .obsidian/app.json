@@ -4,5 +4,7 @@
   "attachmentFolderPath": "attachements",
   "showInlineTitle": false,
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "readableLineLength": true
 }

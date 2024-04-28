@@ -1,0 +1,1 @@
+*Rechtseindeutigkeit* bedeutet, dass jedem **Eingabewert** nur genau ein **Ausgabewert** zugeordnet wird. Der Ausgabewert muss aber anders als bei [[injektiv|Injektivität]] nicht einzigartig sein.

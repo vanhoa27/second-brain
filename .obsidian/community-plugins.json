@@ -1,5 +1,7 @@
 [
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-annotator",
+  "obsidian-spaced-repetition"
 ]
