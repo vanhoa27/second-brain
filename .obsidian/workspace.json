@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1a882a0cef6cb739",
@@ -43,6 +44,16 @@
               "type": "pdf",
               "state": {
                 "file": "Uni/StochServ/Blatt02.pdf"
+              }
+            }
+          },
+          {
+            "id": "f984b89f7948250b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Uni/StochServ/VL3.pdf"
               }
             }
           }
@@ -124,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/StochServ/978-3-662-60516-5.pdf"
+                "file": "Uni/StochServ/202404291613-HA2.md"
               }
             }
           },
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/StochServ/978-3-662-60516-5.pdf",
+                "file": "Uni/StochServ/202404291613-HA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/StochServ/978-3-662-60516-5.pdf",
+                "file": "Uni/StochServ/202404291613-HA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,19 +220,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0931a5b8be61393f",
+  "active": "8c8fd5f48bd2b8f7",
   "lastOpenFiles": [
     "Uni/StochServ/Blatt02.pdf",
     "Uni/StochServ/202404291613-HA2.md",
+    "attachements/Pasted image 20240429202934.png",
+    "attachements/Pasted image 20240429200907.png",
     "Uni/StochServ/978-3-662-60516-5.pdf",
+    "Uni/StochServ/VL3.pdf",
+    "Uni/StochServ/VL2.pdf",
+    "Uni/StochServ/VL1.pdf",
     "Uni/StochServ/latex/prelude.log",
     "Uni/StochServ/latex/prelude.fls",
     "Uni/StochServ/latex/lualatex208512.fls",
     "Uni/StochServ/latex/prelude.fdb_latexmk",
     "Uni/StochServ/latex/prelude.aux",
-    "Uni/StochServ/latex/lualatex208505.fls",
-    "Uni/StochServ/latex/ha1.pdf",
-    "Uni/StochServ/latex/ha1.log",
     "Uni/StochServ/Stochastik Skript.md",
     "Uni/StochServ/Untitled.md",
     "Untitled.md",
@@ -253,8 +266,6 @@
     "attachements/Pasted image 20240425112418.png",
     "Pasted image 20240130020840.png",
     "attachements/Pasted image 20240211135126.png",
-    "attachements/Pasted image 20240130021850.png",
-    "attachements/Pasted image 20240130021638.png",
-    "attachements/Pasted image 20240130014606.png"
+    "attachements/Pasted image 20240130021850.png"
   ]
 }
