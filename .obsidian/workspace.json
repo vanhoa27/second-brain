@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c09f1bc8f908223c",
+        "id": "dd9e9c967d7f2114",
         "type": "tabs",
         "children": [
           {
-            "id": "0931a5b8be61393f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Uni/StochServ/978-3-662-60516-5.pdf"
-              }
-            }
-          },
-          {
-            "id": "8c8fd5f48bd2b8f7",
+            "id": "e664198bbdfcb527",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Uni/StochServ/202404291613-HA2.md",
-                "mode": "preview",
-                "backlinks": false,
+                "mode": "source",
+                "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a1ed0df5f844c7ab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Uni/StochServ/VL1.pdf"
               }
             }
           }
@@ -34,30 +34,63 @@
         "currentTab": 1
       },
       {
-        "id": "1a882a0cef6cb739",
+        "id": "b3aadfbd6ba23013",
         "type": "tabs",
         "children": [
           {
-            "id": "c0f8d31f7a9e8bf7",
+            "id": "ee9c11d6ba35c894",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Uni/StochServ/Blatt02.pdf"
+                "file": "Uni/StochServ/endlicher Wahrscheinlichkeitsraum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "f984b89f7948250b",
+            "id": "2144d49604cb7cf7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Uni/StochServ/VL3.pdf"
+                "file": "Uni/StochServ/Rechenregeln.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1ff7a468d66c212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/StochServ/Axiomen von Kolmogorov.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1142b7490702dfbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/StochServ/Axiomen von Kolmogorov.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/StochServ/202404291613-HA2.md"
+                "file": "Uni/StochServ/Rechenregeln.md"
               }
             }
           },
@@ -145,14 +178,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/StochServ/202404291613-HA2.md",
+                "file": "Uni/StochServ/Rechenregeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -193,9 +226,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/StochServ/202404291613-HA2.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Uni/StochServ/Rechenregeln.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -215,57 +248,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c8fd5f48bd2b8f7",
+  "active": "2144d49604cb7cf7",
   "lastOpenFiles": [
-    "Uni/StochServ/Blatt02.pdf",
+    "Uni/StochServ/endlicher Wahrscheinlichkeitsraum.md",
+    "Uni/StochServ/Rechenregeln.md",
+    "Uni/StochServ/Aussage 3.3.md",
+    "Uni/StochServ/Axiomen von Kolmogorov.md",
+    "Uni/StochServ/Bedingte Wahrscheinlichkeit.md",
+    "Uni/StochServ/Bayes'sche Umkehrormel.md",
+    "Uni/StochServ/VL1.pdf",
+    "Uni/StochServ/Laplace Raum.md",
+    "Uni/StochServ/VL3.pdf",
     "Uni/StochServ/202404291613-HA2.md",
+    "Uni/StochServ/VL4_mit_Notizen.pdf",
+    "Uni/StochServ/Stochastik.md",
+    "Uni/StochServ/unabhaengigkeit.md",
+    "Uni/StochServ/Beweis Aussage 3.3.md",
+    "Uni/StochServ/unabhängige Familie von Ereignissen.md",
+    "Uni/StochServ/Blatt02.pdf",
+    "Uni/StochServ/978-3-662-60516-5.pdf",
+    "Excalidraw/Drawing 2024-04-28 09.30.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-23 14.03.49.excalidraw.md",
+    "Excalidraw/BekoKlausuer.excalidraw.md",
+    "Excalidraw/cs_Learn.excalidraw.md",
+    "Excalidraw/ha2Baum.excalidraw.md",
+    "Uni/StochServ/VL5.pdf",
+    "Uni/StochServ/unabhaengigkeit.pdf",
+    "Uni/StochServ/Stochastik Skript.md",
+    "Uni/StochServ/discrete.ipynb",
+    "Uni/StochServ/Blatt01.pdf",
+    "attachements/SmartSelect_20240429_205906_Samsung Notes 3.jpg",
+    "attachements/SmartSelect_20240429_205906_Samsung Notes 2.jpg",
+    "attachements/SmartSelect_20240429_205906_Samsung Notes 1.jpg",
+    "attachements/SmartSelect_20240429_205906_Samsung Notes.jpg",
     "attachements/Pasted image 20240429202934.png",
     "attachements/Pasted image 20240429200907.png",
-    "Uni/StochServ/978-3-662-60516-5.pdf",
-    "Uni/StochServ/VL3.pdf",
     "Uni/StochServ/VL2.pdf",
-    "Uni/StochServ/VL1.pdf",
-    "Uni/StochServ/latex/prelude.log",
-    "Uni/StochServ/latex/prelude.fls",
-    "Uni/StochServ/latex/lualatex208512.fls",
-    "Uni/StochServ/latex/prelude.fdb_latexmk",
-    "Uni/StochServ/latex/prelude.aux",
-    "Uni/StochServ/Stochastik Skript.md",
-    "Uni/StochServ/Untitled.md",
     "Untitled.md",
-    "Uni/StochServ/Stochastik.md",
     "Uni/StochServ/HA_Loesung02.pdf.md",
     "Uni/StochServ/Untitled 1.md",
     "Uni/LMI/LMI.md",
     "Uni/Digsys/Drawing 2024-04-28 10.54.26.excalidraw.md",
     "Uni/Digsys/DigSys.md",
     "Uni/Digsys/Boolesche Algebra.md",
-    "Excalidraw/Drawing 2024-04-28 09.30.52.excalidraw.md",
     "Uni/LMI/202404251012-VL2.md",
-    "Uni/Digsys/[UE02_BoolescheAlgebra.pdf.md",
     "attachements/Pasted image 20240428103717.png",
-    "Uni/LMI/Prädikatenlogik.md",
     "attachements/Pasted image 20240428092755.png",
-    "Uni/LMI/codierung.md",
-    "Uni/LMI/LMI_Skript.md",
-    "Uni/LMI/Wortstrukturen.md",
-    "archive/Logik/logik23-24.md",
-    "Uni/LMI/Strukturen.md",
-    "Uni/LMI/MSO.md",
-    "Uni/PP3S/Kickoff-PP3S.md",
-    "zettelkasten/wiki.md",
-    "archive/Wire/wire23-24.md",
-    "Uni/LMI/Funktionen.md",
     "attachements/Pasted image 20240428075939.png",
-    "attachements/Pasted image 20240428075853.png",
-    "attachements/Pasted image 20240425112418.png",
-    "Pasted image 20240130020840.png",
-    "attachements/Pasted image 20240211135126.png",
-    "attachements/Pasted image 20240130021850.png"
+    "attachements/Pasted image 20240428075853.png"
   ]
 }
