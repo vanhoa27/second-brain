@@ -10,5 +10,5 @@ tags:
 > 
 > ![[Axiomen von Kolmogorov]]
 
-Aus diesen Axiomen lassen sich [[Rechenregeln]] ableiten.
+Aus diesen Axiomen lassen sich grundlegende [[Rechenregeln]] ableiten.
 

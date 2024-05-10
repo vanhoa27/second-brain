@@ -8,3 +8,4 @@ tags:
 - [[Technische_Informatik.pdf| Referenz Buch]]
 ## Tutorien 
 - [[UE02_BoolescheAlgebra.pdf|Tut2]]
+- [[UE03_MOS.pdf|Tut3]]

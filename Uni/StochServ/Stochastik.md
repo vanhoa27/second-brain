@@ -8,10 +8,11 @@ tags:
 ## Hausaufgaben
 - [[Blatt01.pdf]]
 	- HA_Loesung01.pdf
-	- TUT_Loesung01.pdf
+	- [[Blatt01_Sol_Tut.pdf]] 
 - [[Blatt02.pdf]]
 	- HA_Loesung02.pdf
-	- TUT_Loesung01.pdf
+	- [[Blatt02_Sol_Tut.pdf]] 
+- [[Blatt03.pdf]]
 ## Vorlesungen
 - [[VL1.pdf]]
 - [[VL2.pdf]]

@@ -10,5 +10,6 @@ tags:
 - [[202404251012-VL2|Vorlesung 2]]
 ## Tutorien
 - [[tut00.pdf]]
+- [[tut01.pdf]]
 ## Hausaufgaben
 - [[ha00.pdf]]
