@@ -8,14 +8,20 @@ tags:
 ## Hausaufgaben
 - [[Blatt01.pdf]]
 	- HA_Loesung01.pdf
+	- [[Ha1_IanGloth_Korrektur.pdf]]	
 	- [[Blatt01_Sol_Tut.pdf]] 
 - [[Blatt02.pdf]]
 	- HA_Loesung02.pdf
 	- [[Blatt02_Sol_Tut.pdf]] 
 - [[Blatt03.pdf]]
+	- [[Blatt03_Sol_Tut.pdf]]
+- [[Blatt04.pdf]]
+- [[Blatt05.pdf]]
 ## Vorlesungen
 - [[VL1.pdf]]
 - [[VL2.pdf]]
 - [[VL3.pdf]]
 - [[VL4_mit_Notizen.pdf]]
 - [[VL5.pdf]]
+- [[VL6.pdf]]
+- [[VL7.pdf]]

@@ -15,4 +15,5 @@ tags: []
 - [[i3]]
 - [[Text Editors]]
 - [[scripting]]
-
+## Study
+[[Learn 2 hours]]

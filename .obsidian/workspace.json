@@ -8,27 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd2d2cece1206591",
+            "id": "268d6c0fd1edf2bb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Uni/StochServ/Blatt03.pdf"
-              }
-            }
-          },
-          {
-            "id": "4ec3e9e3e8e5f866",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Uni/StochServ/Blatt02.pdf"
+                "file": "zettelkasten/Learn 2 hours.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gleichverteilt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,8 +98,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/StochServ/Blatt02.pdf"
+                "file": "zettelkasten/Learn 2 hours.md"
               }
+            }
+          },
+          {
+            "id": "4ec3e9e3e8e5f866",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/StochServ/Blatt02.pdf",
+                "file": "zettelkasten/Learn 2 hours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,14 +136,6 @@
             }
           },
           {
-            "id": "9df3534ad2b9dbb8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "8bf0ecd6bbae85cb",
             "type": "leaf",
             "state": {
@@ -151,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "afebb2e724cb1331",
@@ -163,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/StochServ/Blatt02.pdf",
+                "file": "zettelkasten/Learn 2 hours.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -177,8 +170,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -189,29 +182,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ec3e9e3e8e5f866",
+  "active": "268d6c0fd1edf2bb",
   "lastOpenFiles": [
+    "Uni/StochServ/Ha1_IanGloth_Korrektur.pdf",
+    "zettelkasten/Learn 2 hours.md",
+    "zettelkasten/wiki.md",
+    "Uni/StochServ/Stochastik.md",
     "Uni/StochServ/Blatt04.pdf",
+    "Uni/StochServ/Blatt05.pdf",
+    "Uni/StochServ/Bedingte Wahrscheinlichkeit.md",
     "Uni/StochServ/Blatt03.pdf",
-    "Uni/StochServ/Blatt02.pdf",
-    "Uni/LMI/LMI.md",
+    "Uni/StochServ/978-3-662-60516-5.pdf",
+    "daily/2024-05-10.md",
+    "Uni/StochServ/VL7.pdf",
+    "Uni/StochServ/VL6.pdf",
+    "Uni/StochServ/Blatt03_Sol_Tut.pdf",
+    "Uni/StochServ/Blatt01_Sol_Tut.pdf",
     "Uni/StochServ/202404291613-HA2.md",
+    "Uni/StochServ/Blatt01.pdf",
     "Uni/PP3S/project_diary1.md",
+    "Uni/LMI/LMI.md",
     "Uni/PP3S/project diaries.md",
     "Uni/PP3S/Project Documentation.md",
     "Uni/PP3S/Techstack.md",
-    "Uni/StochServ/Blatt02_Sol_Tut.pdf",
-    "Uni/StochServ/Blatt01.pdf",
-    "Uni/StochServ/Stochastik.md",
     "Uni/StochServ/Bernoulli.md",
-    "Uni/LMI/tut01.pdf",
     "Uni/Digsys/DigSys.md",
-    "Uni/StochServ/Technische_Informatik.pdf",
-    "Uni/Digsys/UE03_MOS.pdf",
-    "Uni/Digsys/folien-kapitel03.pdf",
-    "Uni/StochServ/Blatt01_Sol_Tut.pdf",
     "Uni/StochServ/Stochastik Skript.md",
-    "Uni/StochServ/VL1.pdf",
     "Uni/PP3S/Programming Task.md",
     "Uni/LMI/LMI_Skript.md",
     "Uni/StochServ/Axiomen von Kolmogorov.md",
@@ -221,12 +217,8 @@
     "Uni/Digsys/digital.md",
     "Uni/StochServ/endlicher Wahrscheinlichkeitsraum.md",
     "Uni/StochServ/Aussage 3.3.md",
-    "Uni/StochServ/Bedingte Wahrscheinlichkeit.md",
     "Uni/StochServ/Bayes'sche Umkehrormel.md",
     "Uni/StochServ/Laplace Raum.md",
-    "Uni/StochServ/unabhaengigkeit.md",
-    "Uni/StochServ/Beweis Aussage 3.3.md",
-    "Uni/StochServ/unabhängige Familie von Ereignissen.md",
     "attachements/SmartSelect_20240429_205906_Samsung Notes 3.jpg",
     "attachements/SmartSelect_20240429_205906_Samsung Notes 2.jpg",
     "attachements/SmartSelect_20240429_205906_Samsung Notes 1.jpg",
