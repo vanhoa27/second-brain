@@ -15,3 +15,6 @@ tags:
 - [[Programming Task]]
 	- [Implementation](https://git.tu-berlin.de/vanhoanguyen/PP3S)
 	- [[Project Documentation]]
+- [[Midterm Presentation]]
+
+- [[PP3S-SecondPhase]]

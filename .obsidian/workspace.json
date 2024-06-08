@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "6c21d9dda1353d8c",
+        "id": "d391a93d2cf011b2",
         "type": "tabs",
         "children": [
           {
-            "id": "268d6c0fd1edf2bb",
+            "id": "05171badb3c6fcae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Learn 2 hours.md",
+                "file": "Uni/PP3S/PP3S-SecondPhase.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "007766882f2a0381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Conceptual Notetaking.md",
                 "mode": "preview",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5110321044922
+    "width": 220.50418853759766
   },
   "right": {
     "id": "8965fb266e8ce19d",
@@ -98,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Learn 2 hours.md"
+                "file": "zettelkasten/Conceptual Notetaking.md"
               }
             }
           },
@@ -116,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Learn 2 hours.md",
+                "file": "zettelkasten/Conceptual Notetaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Learn 2 hours.md",
+                "file": "zettelkasten/Conceptual Notetaking.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,43 +197,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "268d6c0fd1edf2bb",
+  "active": "007766882f2a0381",
   "lastOpenFiles": [
-    "Uni/StochServ/Ha1_IanGloth_Korrektur.pdf",
+    "zettelkasten/Deep Work.md",
+    "zettelkasten/Conceptual Notetaking.md",
+    "zettelkasten/study.md",
     "zettelkasten/Learn 2 hours.md",
+    "Uni/PP3S/Project Documentation.md",
+    "Uni/PP3S/PP3S-SecondPhase.md",
+    "Uni/PP3S/Kickoff-PP3S.md",
+    "Uni/PP3S/porject_diary2.md",
+    "Uni/PP3S/Midterm Presentation.md",
+    "zettelkasten/fortune cookies.md",
+    "attachements/Pasted image 20240605181014.png",
+    "zettelkasten/i3.md",
+    "zettelkasten/kde.md",
     "zettelkasten/wiki.md",
-    "Uni/StochServ/Stochastik.md",
-    "Uni/StochServ/Blatt04.pdf",
+    "zettelkasten/Xpetu Study tips.md",
+    "daily/2024-06-01.md",
+    "attachements/Pasted image 20240603224019.png",
     "Uni/StochServ/Blatt05.pdf",
+    "Uni/StochServ/Blatt04.pdf",
+    "Uni/PP3S/project diaries.md",
+    "Uni/PP3S/project_diary1.md",
+    "Uni/StochServ/VL7.pdf",
+    "Uni/StochServ/Ha1_IanGloth_Korrektur.pdf",
+    "Uni/StochServ/Stochastik.md",
     "Uni/StochServ/Bedingte Wahrscheinlichkeit.md",
     "Uni/StochServ/Blatt03.pdf",
     "Uni/StochServ/978-3-662-60516-5.pdf",
     "daily/2024-05-10.md",
-    "Uni/StochServ/VL7.pdf",
     "Uni/StochServ/VL6.pdf",
     "Uni/StochServ/Blatt03_Sol_Tut.pdf",
     "Uni/StochServ/Blatt01_Sol_Tut.pdf",
     "Uni/StochServ/202404291613-HA2.md",
     "Uni/StochServ/Blatt01.pdf",
-    "Uni/PP3S/project_diary1.md",
     "Uni/LMI/LMI.md",
-    "Uni/PP3S/project diaries.md",
-    "Uni/PP3S/Project Documentation.md",
     "Uni/PP3S/Techstack.md",
     "Uni/StochServ/Bernoulli.md",
     "Uni/Digsys/DigSys.md",
     "Uni/StochServ/Stochastik Skript.md",
-    "Uni/PP3S/Programming Task.md",
-    "Uni/LMI/LMI_Skript.md",
-    "Uni/StochServ/Axiomen von Kolmogorov.md",
-    "Uni/StochServ/Rechenregeln.md",
-    "Uni/Digsys/analogen.md",
-    "Uni/Digsys/Halbleiter.md",
-    "Uni/Digsys/digital.md",
-    "Uni/StochServ/endlicher Wahrscheinlichkeitsraum.md",
-    "Uni/StochServ/Aussage 3.3.md",
-    "Uni/StochServ/Bayes'sche Umkehrormel.md",
-    "Uni/StochServ/Laplace Raum.md",
     "attachements/SmartSelect_20240429_205906_Samsung Notes 3.jpg",
     "attachements/SmartSelect_20240429_205906_Samsung Notes 2.jpg",
     "attachements/SmartSelect_20240429_205906_Samsung Notes 1.jpg",
@@ -226,8 +244,6 @@
     "attachements/Pasted image 20240429202934.png",
     "attachements/Pasted image 20240429200907.png",
     "attachements/Pasted image 20240428103717.png",
-    "attachements/Pasted image 20240428092755.png",
-    "attachements/Pasted image 20240428075939.png",
-    "attachements/Pasted image 20240428075853.png"
+    "attachements/Pasted image 20240428092755.png"
   ]
 }

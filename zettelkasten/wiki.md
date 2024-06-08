@@ -16,4 +16,6 @@ tags: []
 - [[Text Editors]]
 - [[scripting]]
 ## Study
-[[Learn 2 hours]]
+- [[Learn 2 hours]]
+- [[Xpetu Study tips]]
+- [[Deep Work]]

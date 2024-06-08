@@ -1,7 +1,7 @@
 ---
 tags:
   - "#uni/PP3S"
-header-includes: \rhead{Van Hoa Nguyen}
+header-includes:
 ---
 # PP3S Project diary
 - setup of Gitlab Project Repository
